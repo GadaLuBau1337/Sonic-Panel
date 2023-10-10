@@ -2,7 +2,9 @@
  
 # SONIC PANEL DDOS
 
-# Get Username and Pass : Join My Discord Group
+```
+Get Username and Pass : Join My Discord Group
+```
 ```
 git clone https://github.com/gadalubau1337/Sonic-Panel/
 cd Sonic-Panel
