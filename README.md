@@ -8,6 +8,8 @@ Get Username and Pass : Join My Discord Group
 ```
 git clone https://github.com/gadalubau1337/Sonic-Panel/
 cd Sonic-Panel
+unzip node_modules.zip
+unzip data.zip
 npm i requests
 npm i https-proxy-agent
 npm i crypto-random-string
